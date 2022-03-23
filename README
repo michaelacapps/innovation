@@ -1,0 +1,5 @@
+This code will take the last three United States Presidential Inagural Addresses and turn them into word clouds based on word use frequency.
+Addresses included:
+Obama's second (delivered Jan 2013)
+Trump's (delivered Jan 2017)
+Biden's (delivered Jan 2021)
